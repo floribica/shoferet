@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../V2.1/POO/detkursi2/detkursi2.iml" filepath="$PROJECT_DIR$/../V2.1/POO/detkursi2/detkursi2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab2/lab2.iml" filepath="$PROJECT_DIR$/../lab2/lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prov.iml" filepath="$PROJECT_DIR$/prov.iml" />
+    </modules>
+  </component>
+</project>
