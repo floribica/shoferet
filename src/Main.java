@@ -159,7 +159,7 @@ public class Main {
         else if (n==3) {
             System.out.println("Vendos lojtarin qe do zevendesohet");
             String emri_zevendesohet = input.next();
-            remove("test.txt", emri_zevendesohet, 1, " ");
+            rename("test.txt", emri_zevendesohet, 1, " ");
         }
     }
 }
